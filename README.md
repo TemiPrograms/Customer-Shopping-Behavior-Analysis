@@ -14,8 +14,9 @@ The goal is to uncover insights on spending patterns, product preferences, and s
 - Load the cleaned dataset into SQLite for querying  
 - Analyze customer behavior, spending patterns, and subscriptions using SQL  
 
-**Power BI**  
+**Power BI & Excel**  
 - Visualize insights through an interactive Power BI dashboard
+- Visualize insights through an interactive pivot table based Excel dashboard
 
 
 ## References
