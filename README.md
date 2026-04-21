@@ -5,16 +5,16 @@ The goal is to uncover insights on spending patterns, product preferences, and s
 
 ## Tools & Workflow
 
-**Python (pandas)**  _Data Cleaning_
+**Python (pandas)**   _Data Cleaning_ 🧼
 - Load and explore the dataset to understand structure and variables  
 - Clean the data by handling missing values and removing redundant columns  
 - Standardize column names and engineer new analytical features  
 
-**SQLite**  _Data Querying_
+**SQLite**   _Data Querying_ 👨🏾‍💻
 - Load the cleaned dataset into SQLite for querying  
 - Analyze customer behavior, spending patterns, and subscriptions using SQL  
 
-**Power BI & Excel**  _Data Visualization_
+**Power BI & Excel**   _Data Visualization_ 📊
 - Visualize insights through an interactive Power BI dashboard
 - Visualize insights through an interactive pivot table based Excel dashboard
 
